@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+openai
+pydub
+speechrecognition
+pyttsx3
+python-dotenv
+mysql-connector-python
