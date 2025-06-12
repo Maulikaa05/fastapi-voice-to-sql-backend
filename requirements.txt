@@ -6,3 +6,4 @@ speechrecognition
 pyttsx3
 python-dotenv
 mysql-connector-python
+chromadb 
